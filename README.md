@@ -15,9 +15,7 @@ A smart web application that generates professional, personalized emails based o
 
 ---
 
-## 🖼️ Demo
 
-https://user-images.githubusercontent.com/yourdemo.gif *(Insert your demo GIF or video link here)*
 
 ---
 
