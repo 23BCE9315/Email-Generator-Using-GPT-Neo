@@ -15,6 +15,12 @@ A smart web application that generates professional, personalized emails based o
 
 ---
 
+## Screenshots
+![Home](https://github.com/user-attachments/assets/5034db24-5a0d-452e-98a0-15b68af9a2b7)
+
+![Home2](https://github.com/user-attachments/assets/cc985177-13ea-4621-8d03-07c430c9ad7c)
+
+![Output](https://github.com/user-attachments/assets/dfdae363-214f-4ffc-af3c-fdad2952aea9)
 
 
 ---
